@@ -11,7 +11,13 @@ class B extends A {
 
     public B() {
 
+        this(4);
+
         System.out.println("B 1");
+    }
+    public B(int k)
+    {
+        System.out.println("B 2");
     }
 }
 
