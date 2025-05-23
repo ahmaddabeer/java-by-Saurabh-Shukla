@@ -28,10 +28,6 @@ This repository is mainly for learning and practice purposes. You’re welcome t
 
 ---
 
-## 🔗 Connect with Me
-
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
-- **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
 
 ---
 
